@@ -9,6 +9,7 @@ The name of this font is a merge of "_Paradroid_" and the first name of its crea
 The font is vectorized based upon screenshots of the original bitmaps and best efforts
 were given to honor the original font - some divergence were done to adhere typographical guidelines.
 
+
 ## License
 
 This work is licensed under a
@@ -19,3 +20,8 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+
+## Preview
+
+![Font Preview](preview.png)
