@@ -1,4 +1,4 @@
-Paradrew Font
+Paradrew Font v1.1
 ======
 
 **Paradrew Font** is a font family based on the fonts viewed in the Commodore 64 computer game [Paradroid](//en.wikipedia.org/wiki/Paradroid)
